@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Profile Views](https://komarev.com/ghpvc/?username=betterversionofpuja&icon=0&color=0&style=flat-square&label=Profile+Views)](https://visitcount.itsvg.in)
+[![Profile Views](https://komarev.com/ghpvc/?username=betterversionofpuja&style=flat-square&color=0e75b6&label=Profile+Views)](https://github.com/betterversionofpuja)
 
 </div>
 
